@@ -1,0 +1,16 @@
+*{
+    margin:0;
+padding:0px;
+  }
+  body{
+    background:rgb(142, 118, 83);
+  }
+  h1{
+  color:rgb(119, 0, 255);
+  
+  }
+  
+  button{
+    height:50px;
+    width: 300px;
+  }
