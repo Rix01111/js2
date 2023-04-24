@@ -28,7 +28,7 @@ const c=()=>{
 
 const d=()=>{
     Swal.fire({
-        imageUrl: 'https://placeholder.pics/svg/300x1500',
+        imageUrl: 'img.jpg',
         imageHeight: 1500,
         imageAlt: 'popo'
       })
